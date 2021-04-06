@@ -1,1 +1,1 @@
-# Simple-Calculator-using-notepad
+# Simple-Calculator-using-python
